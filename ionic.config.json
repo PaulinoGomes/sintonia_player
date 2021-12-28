@@ -1,0 +1,7 @@
+{
+  "name": "sintonia_player",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
